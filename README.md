@@ -28,9 +28,9 @@ Summary of Contest Solutions
 | December 2013 | 1: Record Keeping                     | `records.cpp`   | `**********` 10/10     |
 |               | 2: Cow Baseball                       | `baseball.cpp`  | `*xxxxxxxxx` 1/10      |
 |               | 3: Wormholes                          | `wormhole.cpp`  | `incomplete`           |
-| January 2014  | 1: Ski Course Design                  | `skidesign.cpp` | `unknown`              |
-|               | 2: Bessie Slows Down                  | `slowdown.cpp`  | `unknown`              |
-|               | 3: Balanced Teams                     | `bteams.cpp`    | `unknown` `incomplete` |
+| January 2014  | 1: Ski Course Design                  | `skidesign.cpp` | `**********` 10/10     |
+|               | 2: Bessie Slows Down                  | `slowdown.cpp`  | `*xxxxxxxxx` 1/10      |
+|               | 3: Balanced Teams                     | `bteams.cpp`    | `incomplete` |
 
 Training Solutions
 -----

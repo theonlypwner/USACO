@@ -86,16 +86,16 @@ It's too difficult, but I had it partially done. Other partial work is in the re
 ## 2014
 ### January 2014
 #### Problem 1: Ski Course Design `skidesign.cpp`
-(`unknown`)
+`**********` 10/10
 
 My solution is O(**N<sup>2</sup>**), but up to 83*99 iterations.
 
 #### Problem 2: Bessie Slows Down `slowdown.cpp`
-(`unknown`)
+`*xxxxxxxxx` 1/10 (9 wrong answers)
 
 My solution is O(**N**), so it should be fine.
 
 #### Problem 3: Balanced Teams `bteams.cpp`
-(`unknown`, `incomplete`)
+(`incomplete`)
 
 It's too difficult, so I give up.
