@@ -93,7 +93,7 @@ My solution is O(**N<sup>2</sup>**), but up to 83*99 iterations.
 #### Problem 2: Bessie Slows Down `slowdown.cpp`
 `*xxxxxxxxx` 1/10 (9 wrong answers)
 
-My solution is O(**N**), so it should be fine.
+My solution is O(**N log N**), but I somehow made an error somewhere (probably rounding errors).
 
 #### Problem 3: Balanced Teams `bteams.cpp`
 (`incomplete`)
