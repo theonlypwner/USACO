@@ -30,7 +30,10 @@ Summary of Contest Solutions
 |               | 3: Wormholes                          | `wormhole.cpp`  | `incomplete`           |
 | January 2014  | 1: Ski Course Design                  | `skidesign.cpp` | `**********` 10/10     |
 |               | 2: Bessie Slows Down                  | `slowdown.cpp`  | `*xxxxxxxxx` 1/10      |
-|               | 3: Balanced Teams                     | `bteams.cpp`    | `incomplete` |
+|               | 3: Balanced Teams                     | `bteams.cpp`    | `incomplete`           |
+| February 2014 | 1: Mirror Field                       | `mirror.cpp`    | `??????????` ?/10      |
+|               | 2: Auto-complete                      | `auto.cpp`      | `??????????` ?/10      |
+|               | 3: Secret Code                        | `scode.cpp`     | `??????????` ?/10      |
 
 Training Solutions
 -----

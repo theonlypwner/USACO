@@ -99,3 +99,19 @@ My solution is O(**N log N**), but I somehow made an error somewhere (probably r
 (`incomplete`)
 
 It's too difficult, so I give up.
+
+### February 2014
+#### Problem 1: Mirror Field `mirror.cpp`
+(`unknown`)
+
+This is actually more difficult than Problem 2, which I completed first.
+
+#### Problem 2: Auto-complete `auto.cpp`
+(`unknown`)
+
+Just sort the entries, but also store the original position, then process the requests.
+
+#### Problem 3: Secret Code `scode.cpp`
+(`unknown`)
+
+This one took more time than Problem 1 and Problem 2, but at least I actually finished this Problem 3, unlike the last few ones.
