@@ -31,9 +31,9 @@ Summary of Contest Solutions
 | January 2014  | 1: Ski Course Design                  | `skidesign.cpp` | `**********` 10/10     |
 |               | 2: Bessie Slows Down                  | `slowdown.cpp`  | `*xxxxxxxxx` 1/10      |
 |               | 3: Balanced Teams                     | `bteams.cpp`    | `incomplete`           |
-| February 2014 | 1: Mirror Field                       | `mirror.cpp`    | `??????????` ?/10      |
-|               | 2: Auto-complete                      | `auto.cpp`      | `??????????` ?/10      |
-|               | 3: Secret Code                        | `scode.cpp`     | `??????????` ?/10      |
+| February 2014 | 1: Mirror Field                       | `mirror.cpp`    | `**x*x*****` 8/10      |
+|               | 2: Auto-complete                      | `auto.cpp`      | `*****tt**t` 7/10      |
+|               | 3: Secret Code                        | `scode.cpp`     | `**********` 10/10     |
 
 Training Solutions
 -----

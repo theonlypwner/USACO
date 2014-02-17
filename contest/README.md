@@ -43,7 +43,7 @@ I found out that this solution is flawed because it doesn't "fill the holes" cor
 
 ### November 2013
 #### Problem 1: Combination Lock `combo.cpp`
-`*x*xxxx**x` 4/10 (6 wrong answers)
+`*x*xxxx**x` 4/10 (6 wrong answers @ `2,4,5,6,7,10`)
 
 I optimized it near the end, but then I realized that the overlap() function fails when N < 5.
 
@@ -63,7 +63,7 @@ This is more optimized than my previous correction though still in O(1) time.
 I think that testing every boundary line might be slow, but it's the only way I can think of that does it completely.
 
 #### Problem 3: Farmer John has no Large Brown Cow `nocow.cpp`
-`**ssx*ssss` 3/10 (6 signals, 1 wrong answer)
+`**ssx*ssss` 3/10 (6 signals @ `3,4,7,8,9,10`, 1 wrong answer @ `5`)
 
 I somehow ran out of memory and the permutations were not correct in one case.
 
@@ -86,7 +86,7 @@ It's too difficult, but I had it partially done. Other partial work is in the re
 ## 2014
 ### January 2014
 #### Problem 1: Ski Course Design `skidesign.cpp`
-`**********` 10/10
+`**********` 10/10 (perfect)
 
 My solution is O(**N<sup>2</sup>**), but up to 83*99 iterations.
 
@@ -102,16 +102,16 @@ It's too difficult, so I give up.
 
 ### February 2014
 #### Problem 1: Mirror Field `mirror.cpp`
-(`unknown`)
+`**x*x*****` 8/10 (2 wrong @ `3,5`)
 
 This is actually more difficult than Problem 2, which I completed first.
 
 #### Problem 2: Auto-complete `auto.cpp`
-(`unknown`)
+`*****tt**t` 7/10 (3 timeouts @ `6,7,10`)
 
 Just sort the entries, but also store the original position, then process the requests.
 
 #### Problem 3: Secret Code `scode.cpp`
-(`unknown`)
+`**********` 10/10 (perfect)
 
 This one took more time than Problem 1 and Problem 2, but at least I actually finished this Problem 3, unlike the last few ones.
