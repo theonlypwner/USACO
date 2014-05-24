@@ -115,3 +115,25 @@ Just sort the entries, but also store the original position, then process the re
 `**********` 10/10 (perfect)
 
 This one took more time than Problem 1 and Problem 2, but at least I actually finished this Problem 3, unlike the last few ones.
+
+### March 2014
+#### Problem 2: The Lazy Cow `lazy.cpp`
+`*****ttttt` 5/10 (5 timeouts @ `5-10`)
+
+Silver is significantly more difficult than bronze.
+
+#### Problem 3: Mooo Moo `mooomoo.cpp`
+(`incomplete`)
+
+I gave up, and the partial code in this file is pointless.
+
+### April (US Open) 2014
+#### Problem 1: Fair Photography `fairphoto.cpp`
+`*****t*ttt` 6/10 (4 timeouts @ `6,8-10`)
+
+I'm not sure how to implement this faster.
+
+#### Problem 2: Dueling GPSs `gpsduel.cpp`
+(`incomplete`)
+
+I've never implemented Dijkstra's algorithm before, and I couldn't do it in time.
