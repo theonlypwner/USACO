@@ -45,13 +45,22 @@ Summary of Contest Solutions
 | April 2015    | 1: Bessie Goes Moo                    | `bgm.cpp`       | `incomplete`           |
 | (US Open)     | 2: Trapped in the Haybales            | `trapped.cpp`   | `****tttttttttt` 4/14  |
 | December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
-| (US Open)     | 2: [TBA]                              | `.cpp`          | TBA                    |
+|               | 2: [TBA]                              | `.cpp`          | TBA                    |
+|               | 3: [TBA]                              | `.cpp`          | TBA                    |
 
 ### Gold
-TBA
+| Month         | Problem Name                          | File            | Result                 |
+| ------------- | ------------------------------------- |:---------------:| ---------------------- |
+| December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
+|               | 2: [TBA]                              | `.cpp`          | TBA                    |
+|               | 3: [TBA]                              | `.cpp`          | TBA                    |
 
 ### Platinum
-TBA
+| Month         | Problem Name                          | File            | Result                 |
+| ------------- | ------------------------------------- |:---------------:| ---------------------- |
+| December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
+|               | 2: [TBA]                              | `.cpp`          | TBA                    |
+|               | 3: [TBA]                              | `.cpp`          | TBA                    |
 
 Training Solutions
 -----
