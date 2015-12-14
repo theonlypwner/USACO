@@ -34,10 +34,24 @@ Summary of Contest Solutions
 | February 2014 | 1: Mirror Field                       | `mirror.cpp`    | `**x*x*****` 8/10      |
 |               | 2: Auto-complete                      | `auto.cpp`      | `*****tt**t` 7/10      |
 |               | 3: Secret Code                        | `scode.cpp`     | `**********` 10/10     |
+
+### Silver
+| Month         | Problem Name                          | File            | Result                 |
+| ------------- | ------------------------------------- |:---------------:| ---------------------- |
 | March 2014    | 2: The Lazy Cow                       | `lazy.cpp`      | `*****ttttt` 5/10      |
 |               | 3: Mooo Moo                           | `mooomoo.cpp`   | `incomplete`           |
 | April 2014    | 1: Fair Photography                   | `fairphoto.cpp` | `*****t*ttt` 6/10      |
 | (US Open)     | 2: Dueling GPSs                       | `gpsduel.cpp`   | `incomplete`           |
+| April 2015    | 1: Bessie Goes Moo                    | `bgm.cpp`       | `incomplete`           |
+| (US Open)     | 2: Trapped in the Haybales            | `trapped.cpp`   | `****tttttttttt` 4/14  |
+| December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
+| (US Open)     | 2: [TBA]                              | `.cpp`          | TBA                    |
+
+### Gold
+TBA
+
+### Platinum
+TBA
 
 Training Solutions
 -----

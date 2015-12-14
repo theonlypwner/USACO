@@ -116,6 +116,8 @@ Just sort the entries, but also store the original position, then process the re
 
 This one took more time than Problem 1 and Problem 2, but at least I actually finished this Problem 3, unlike the last few ones.
 
+# USACO Silver Solutions
+## 2014
 ### March 2014
 #### Problem 2: The Lazy Cow `lazy.cpp`
 `*****ttttt` 5/10 (5 timeouts @ `5-10`)
@@ -137,3 +139,18 @@ I'm not sure how to implement this faster.
 (`incomplete`)
 
 I've never implemented Dijkstra's algorithm before, and I couldn't do it in time.
+
+## 2015
+### April (US Open) 2015
+#### Problem 1: Bessie Goes Moo `bgm.cpp`
+(`incomplete`)
+
+I didn't finish implementing it in time during the contest.
+
+#### Problem 2: Dueling GPSs `gpsduel.cpp`
+`****tttttttttt` 4/14 (10 timeouts @ `5-14`)
+
+My solution is too slow.
+
+### December 2015
+Solutions will be posted soon, after the contest ends.
