@@ -36,31 +36,31 @@ Summary of Contest Solutions
 |               | 3: Secret Code                        | `scode.cpp`     | `**********` 10/10     |
 
 ### Silver
-| Month         | Problem Name                          | File            | Result                 |
-| ------------- | ------------------------------------- |:---------------:| ---------------------- |
-| March 2014    | 2: The Lazy Cow                       | `lazy.cpp`      | `*****ttttt` 5/10      |
-|               | 3: Mooo Moo                           | `mooomoo.cpp`   | `incomplete`           |
-| April 2014    | 1: Fair Photography                   | `fairphoto.cpp` | `*****t*ttt` 6/10      |
-| (US Open)     | 2: Dueling GPSs                       | `gpsduel.cpp`   | `incomplete`           |
-| April 2015    | 1: Bessie Goes Moo                    | `bgm.cpp`       | `incomplete`           |
-| (US Open)     | 2: Trapped in the Haybales            | `trapped.cpp`   | `****tttttttttt` 4/14  |
-| December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
-|               | 2: [TBA]                              | `.cpp`          | TBA                    |
-|               | 3: [TBA]                              | `.cpp`          | TBA                    |
+| Month         | Problem Name               | File            | Result                  |
+| ------------- | -------------------------- |:---------------:| ----------------------- |
+| March 2014    | 2: The Lazy Cow            | `lazy.cpp`      | `*****ttttt` 5/10       |
+|               | 3: Mooo Moo                | `mooomoo.cpp`   | `incomplete`            |
+| April 2014    | 1: Fair Photography        | `fairphoto.cpp` | `*****t*ttt` 6/10       |
+| (US Open)     | 2: Dueling GPSs            | `gpsduel.cpp`   | `incomplete`            |
+| April 2015    | 1: Bessie Goes Moo         | `bgm.cpp`       | `incomplete`            |
+| (US Open)     | 2: Trapped in the Haybales | `trapped.cpp`   | `****tttttttttt` 4/14   |
+| December 2015 | 1: Switching on the Lights | `lightson.cpp`  | `***************` 15/15 |
+|               | 2: High Card Wins          | `highcard.cpp`  | `***************` 15/15 |
+|               | 3: Breed Counting          | `bcount.cpp`    | `***************` 15/15 |
 
 ### Gold
-| Month         | Problem Name                          | File            | Result                 |
-| ------------- | ------------------------------------- |:---------------:| ---------------------- |
-| December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
-|               | 2: [TBA]                              | `.cpp`          | TBA                    |
-|               | 3: [TBA]                              | `.cpp`          | TBA                    |
+| Month         | Problem Name          | File           | Result                   |
+| ------------- | --------------------- |:--------------:| ------------------------ |
+| December 2015 | 1: High Card Low Card | `cardgame.cpp` | `***************` 15/15  |
+|               | 2: Fruit Feast        | `feast.cpp`    | `************` 12/12     |
+|               | 3: Bessie's Dream     | `dream.cpp`    | `****************` 16/16 |
 
 ### Platinum
 | Month         | Problem Name                          | File            | Result                 |
 | ------------- | ------------------------------------- |:---------------:| ---------------------- |
-| December 2015 | 1: [TBA]                              | `.cpp`          | TBA                    |
-|               | 2: [TBA]                              | `.cpp`          | TBA                    |
-|               | 3: [TBA]                              | `.cpp`          | TBA                    |
+| December 2015 | 1: Max Flow                           | `maxflow.cpp`   | `******ttttttttt` 6/15 |
+|               | 2: High Card Low Card                 | `cardgame.cpp`  | `***x*tttttttttt` 4/15 |
+|               | 3: Counting Haybales                  | `haybales.cpp`  | `***ttttttt` 3/10      |
 
 Training Solutions
 -----

@@ -153,4 +153,60 @@ I didn't finish implementing it in time during the contest.
 My solution is too slow.
 
 ### December 2015
-Solutions will be posted soon, after the contest ends.
+They made all of the divisions easier, and my skills have also improved.
+
+I solved them all with over 90 minutes to spare!
+
+#### Problem 1: Switching on the Lights `lightson.cpp`
+`***************` 15/15 (perfect)
+
+I pretty much used BFS (breadth-first search) until everything possible is reached.
+
+#### Problem 2: High Card Wins `highcard.cpp`
+`***************` 15/15 (perfect)
+
+This is just a greedy problem.
+
+#### Problem 3: Breed Counting `bcount.cpp`
+`***************` 15/15 (perfect)
+
+I used 3 arrays to counts the number of a type of breed to the left. Then the count from A to B is just array[B+1] - array[A].
+
+# USACO Gold Solutions
+### December 2015
+I didn't have as much time left over (~25 minutes) as I did in Silver.
+
+#### Problem 1: High Card Low Card `cardgame.cpp`
+`***************` 15/15 (perfect)
+
+I didn't expect this greedy algorithm to work, but it did.
+
+#### Problem 2: Fruit Feast `feast.cpp`
+`************` 12/12 (perfect)
+
+I used the cyclic property of modular arithmetic to avoid checking every possibility.
+
+#### Problem 3: Bessie's Dream `dream.cpp`
+`****************` 16/16 (perfect)
+
+Maybe BFS could be faster than Dijkstra's algorithm.
+
+My earlier version without the priority queue was too slow.
+
+# USACO Platinum Solutions
+## 2015
+### December 2015
+#### Problem 1: Max Flow `maxflow.cpp`
+`******ttttttttt` 6/15 (9 timeouts @ `7-15`)
+
+There isn't enough space to store the paths in something resembling a routing table, so I did BFS Q times, which is too slow.
+
+#### Problem 2: High Card Low Card `cardgame.cpp`
+`***x*tttttttttt` 4/15 (1 wrong answer @ `4`, 10 timeouts @ `6-15`)
+
+I tried all N possibilities with my Gold solution, but it was too slow.
+
+#### Problem 3: Counting Haybales `haybales.cpp`
+`***ttttttt` 3/10 (7 timeouts @ `4-10`)
+
+I'm not sure what kind of data structure is suitable. After it ended, Google searches show that maybe a BIT (binary indexed tree or Fenwick tree) or a Cartesian tree would work.
