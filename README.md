@@ -66,6 +66,13 @@ Training Solutions
 -----
 | Chapter   | Section     | File            | Problem
 | --------- | ----------- |:---------------:| ---
+| Chapter 1 | Section 1.1 | `test.c`        | Submitting Solutions
+|           |             | `ride.c`        | 108: Your Ride Is Here
+
+Old Training Solutions
+-----
+| Chapter   | Section     | File            | Problem
+| --------- | ----------- |:---------------:| ---
 | Chapter 1 | Section 1.1 | `submit.cpp`    | Submitting Solutions
 |           |             | `ride.cpp`      | Problem 108: Your Ride Is Here
 |           |             | `gift1.cpp`     | Problem 77: Greedy Gift Givers
